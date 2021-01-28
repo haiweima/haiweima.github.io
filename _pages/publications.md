@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -16,7 +16,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-
+# Publications [Google Scholar profile]({{author.googlescholar}})
+## Journal Articles
 A Review of Affective Computing Research Based on Function-Component-Representation Framework
 **Haiwei Ma**, Svetlana Yarosh.
 Received minor revisions from *IEEE Transactions on Affective Computing*.
