@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="http://lantaoyu.com/files/haiweima_cv.pdf" width="650" height="1800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="600" type='application/pdf'>

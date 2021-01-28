@@ -17,6 +17,10 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
-Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.
-<i>Preprint. arXiv:2010.00578</i>
+* A Review of Affective Computing Research Based on Function-Component-Representation Framework
+
+**Haiwei Ma**, Svetlana Yarosh.
+
+Received minor revisions from *IEEE Transactions on Affective Computing*.
+
+
