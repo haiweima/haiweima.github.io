@@ -31,12 +31,12 @@ C Estelle Smith, Zachary Levonian, **Haiwei Ma**, Robert Giaquinto, Gemma Lein-M
 *ACM Transactions on Computer-Human Interaction (TOCHI 2020)*  
 
 
-Write for life: Persisting in online health communities through expressive writing and social support [Journal](/files/journal1.pdf)  
+Write for life: Persisting in online health communities through expressive writing and social support [Journal](/files/journal1.pdf) [Blog](https://grouplens.org/blog/take-your-medicine-write-online/)  
 **Haiwei Ma**, C Estelle Smith, Lu He, Saumik Narayanan, Robert A Giaquinto, Roni Evans, Linda Hanson, and Svetlana Yarosh  
 *Proceedings of the ACM on Human-Computer Interaction (CSCW 2017)*
 
 ## Conference Papers
-Effects of anonymity, ephemerality, and system routing on cost in social question asking [Paper](/files/paper3.pdf)  
+Effects of anonymity, ephemerality, and system routing on cost in social question asking [Paper](/files/paper3.pdf) [Blog](https://grouplens.org/blog/system-design-to-reduce-social-cost-of-question-asking/)  
 **Haiwei Ma**, Hao-Fei Cheng, Bowen Yu, and Haiyi Zhu  
 *Proceedings of the ACM on Human-Computer Interaction (GROUP 2019)*  
 
