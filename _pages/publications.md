@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "[Publications]({{ site.baseurl }})"
 permalink: /publications/
 author_profile: true
 ---
