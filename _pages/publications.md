@@ -22,9 +22,9 @@ A Review of Affective Computing Research Based on Function-Component-Representat
 **Haiwei Ma**, Svetlana Yarosh  
 Received minor revisions from *IEEE Transactions on Affective Computing*  
 
-Detecting Expressive Writing in Online Health Communities by Modeling Aggregated Empirical Data  
+Detecting Expressive Writing in Online Health Communities by Modeling Aggregated Empirical Data [[Journal]](/files/journal3.pdf)  
 **Haiwei Ma**, Sunny Parawala, Svetlana Yarosh  
-Accepted to *Proceedings of the ACM on Human- Computer Interaction (CSCW 2020)*  
+*Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 62*  
 
 " i cannot do all of this alone": Exploring instrumental and prayer support in online health communities [[Journal]](/files/journal2.pdf)  
 C Estelle Smith, Zachary Levonian, **Haiwei Ma**, Robert Giaquinto, Gemma Lein-Mcdonough, Zixuan Li, Susan O’Conner-Von, and Svetlana Yarosh  
